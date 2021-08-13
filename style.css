@@ -1,0 +1,44 @@
+th{
+	background-color: olive;
+	color: white;
+	font-weight:800;
+	font-size:40;
+	font-family:  sans-serif;
+	text-align: center;
+	font-style: italic;
+
+	}
+
+tr{
+	font-family: sans-serif;
+	font-synthesis: style;
+	font-style: italic;
+
+}
+table{
+border-color: black;
+background-color: grey;
+margin: 25px 0;
+font-size: 0.9cm;
+padding: 12px 15px;
+border-collapse: collapse;
+font-weight: bold;
+text-align: left;
+
+}
+
+h1{
+
+	color: white;
+	font-family:  sans-serif;
+	text-align: center;
+	font-style: italic;
+	background-color: grey;
+	font-size: 01.9cm;
+	padding: 10px;
+}
+td{
+	color: white
+
+}
+
